@@ -20,7 +20,7 @@ Controlling unit is in the institute. Whenever the card is placed near the reade
 3. Bakh Kamalov
 4. Maksat Taganow
 
-Nice to be here
+
 
 
 
