@@ -11,6 +11,15 @@ In this system, each student is issued an RFID tag.
 Controlling unit is in the institute. Whenever the card is placed near the reader, it will take the attendance. 
 [Gantt Chart & More Info](https://drive.google.com/drive/folders/0B20Hf5-CgbtrcGlmRGsyZ2RJZ1E)
 
+**Hardware Requirements:**
+
+* 1 x Intel Galileo (You also can use Arduino UNO and other compatible board )
+* 1 x RFID RC522
+* 1 x LCD 16x2
+* 1 x Potentiometer (10k)
+* Wires and cables for connection
+* Ethernet connection cable to Router
+
 
 **How to design a virtual schematic diagram for your circuit ?**
 
