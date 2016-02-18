@@ -4,6 +4,7 @@ Team Leader: Mabast Ahmad
 
 
 **Brief Project Description:**
+
 Attendance in colleges is generally paper based which may sometimes cause errors. 
 Taking attendance manually consumes more time. So the proposed attendance system uses RFID technology to take attendance. 
 In this system, each student is issued an RFID tag.
@@ -12,6 +13,7 @@ Controlling unit is in the institute. Whenever the card is placed near the reade
 
 
 **How to design a virtual schematic diagram for your circuit ?**
+
 There're lots of programs that can be used for designing a circuit, and most of them are really useful that comes with helpful tools letting you design your schematic easily and professionally. 
 
 The picture below is a schematic design for this project:
@@ -24,6 +26,7 @@ click the link to download Fritzing for your machine: http://fritzing.org/home/
 
 
 **Team Members:**
+
 1. Douglas Perez
 2. Andi Alla
 3. Bakh Kamalov
