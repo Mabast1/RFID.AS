@@ -17,7 +17,7 @@ Controlling unit is in the institute. Whenever the card is placed near the reade
 * 1 x RFID RC522
 * 1 x LCD 16x2
 * 1 x Potentiometer (10k)
-* Wires and cables for connection
+* Jumper Wires
 * Ethernet connection cable to Router
 
 
