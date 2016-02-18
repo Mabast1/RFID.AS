@@ -15,9 +15,9 @@ Controlling unit is in the institute. Whenever the card is placed near the reade
 There're lots of programs that can be used for designing a circuit, and most of them are really useful that comes with helpful tools letting you design your schematic easily and professionally. 
 
 The picture below is a schematic design for this project:
-![GitHub Logo](RFID.AS/RFID SCHEME_bb.png) Format: ![Alt Text](https://github.com/Mabast1/RFID.AS/blob/master/RFID%20SCHEME_bb.png)
+![Project Scheme](https://github.com/Mabast1/RFID.AS/blob/master/RFID%20SCHEME_bb.png)
 
-The software that I'm using [here](https://github.com/Mabast1/RFID.AS/blob/master/RFID%20SCHEME_bb.pdf) and I strongly recommend is:
+The software that I'm using here and strongly recommend it:
 
 [Fritzing](http://fritzing.org/home/) , an open-source hardware initiative that makes electronics accessible as a creative material for anyone,its available for (Windows, Mac and Linux) operating systems.
 click the link to download Fritzing for your machine: http://fritzing.org/home/
