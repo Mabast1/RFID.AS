@@ -38,6 +38,6 @@ click the link to download Fritzing for your machine: http://fritzing.org/home/
 
 1. Douglas Perez
 2. Andi Alla
-3. Bakh Kamalov
+3. Bakhromjon Kamalov
 4. Maksat Taganow
 
