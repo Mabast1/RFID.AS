@@ -1,6 +1,6 @@
 ### RFID based Attendance System
 
-Team Leader: Mabast Ahmad
+Team Leader: 	Mabast Ahmad
 Team Members: 	Maksat Taganov
 				Douglas Perez
 
