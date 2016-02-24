@@ -1,15 +1,16 @@
 ### RFID based Attendance System
 
-Team Leader: Mabast Ahmad 
-Team Members: Douglas Perez
+Team Leader: Mabast Ahmad
+Team Members: 	Maksat Taganov
+				Douglas Perez
 
 
 **Brief Project Description:**
 
-Attendance in colleges is generally paper based which may sometimes cause errors. 
-Taking attendance manually consumes more time. So the proposed attendance system uses RFID technology to take attendance. 
+Attendance in colleges is generally paper based which may sometimes cause errors.
+Taking attendance manually consumes more time. So the proposed attendance system uses RFID technology to take attendance.
 In this system, each student is issued an RFID tag.
-Controlling unit is in the institute. Whenever the card is placed near the reader, it will take the attendance. 
+Controlling unit is in the institute. Whenever the card is placed near the reader, it will take the attendance.
 [Gantt Chart & More Info](https://drive.google.com/drive/folders/0B20Hf5-CgbtrcGlmRGsyZ2RJZ1E)
 
 **Hardware Requirements:**
@@ -24,7 +25,7 @@ Controlling unit is in the institute. Whenever the card is placed near the reade
 
 **How to design a virtual schematic diagram for your circuit ?**
 
-There're a lot of programs that can be used for designing a circuit, and most of them are really useful that comes with helpful tools letting you design your schematic easily and professionally. 
+There're a lot of programs that can be used for designing a circuit, and most of them are really useful that comes with helpful tools letting you design your schematic easily and professionally.
 
 The picture below is a schematic design for this project:
 ![Project Scheme](https://github.com/Mabast1/RFID.AS/blob/master/RFID%20SCHEME_bb.png)
@@ -35,9 +36,9 @@ The software that I'm using here and strongly recommend it:
 click the link to download Fritzing for your machine: http://fritzing.org/home/
 
 **Connections:**
-   
+
    in case if you couldn't get the scheme, the below pin to pin connections might help:   
-   
+
 ###### Connection of *RFID* to *Intel Galileo*:
    * GND = GROUND
    * 3.3 = 3.3v
@@ -46,7 +47,7 @@ click the link to download Fritzing for your machine: http://fritzing.org/home/
    * MOSI = Pin 11
    * MISO = Pin 12
    * SCK = Pin 13
-   
+
 ###### Connection of *LCD* to *Intel Galileo*:
    * VSS & RW = GND
    * Vcc = 5v
@@ -58,7 +59,9 @@ click the link to download Fritzing for your machine: http://fritzing.org/home/
    * E = Pin 8
    * RS = Pin 9
 
+**Team Members:**
+
+1. Douglas Perez
 2. Andi Alla
 3. Bakh Kamalov
-4. Maksat Taganow
-
+4. Maksat Taganov
