@@ -3,8 +3,8 @@
 Team Leader:	Mabast Ahmad
 Team Members:	Maksat Taganov
 				Douglas Perez 
-		Bakhromjon Kamolov
-
+				Bakhromjon Kamolov
+				Andi Alla
 **Brief Project Description:**
 
 Attendance in colleges is generally paper based which may sometimes cause errors.
