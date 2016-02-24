@@ -2,7 +2,7 @@
 
 Team Leader:	Mabast Ahmad
 Team Members:	Maksat Taganov
-
+				Douglas Perez
 
 **Brief Project Description:**
 
