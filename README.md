@@ -1,10 +1,10 @@
 ### RFID based Attendance System
 
-Team Leader:	Mabast Ahmad
-Team Members:	Maksat Taganov
-				Douglas Perez 
-				Bakhromjon Kamolov
-				Andi Alla
+Team Leader:   	Mabast Ahmad
+Team Members:  	Maksat Taganov
+		Douglas Perez 
+		Bakhromjon Kamolov
+		Andi Alla
 **Brief Project Description:**
 
 Attendance in colleges is generally paper based which may sometimes cause errors.
@@ -59,9 +59,5 @@ click the link to download Fritzing for your machine: http://fritzing.org/home/
    * E = Pin 8
    * RS = Pin 9
 
-**Team Members:**
 
-1. Douglas Perez
-2. Andi Alla
-3. Bakh Kamalov
-4. Maksat Taganov
+
