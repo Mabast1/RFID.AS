@@ -44,7 +44,7 @@ click the link to download Fritzing for your machine: http://fritzing.org/home/
 
    in case if you couldn't get the scheme, the below pin to pin connections might help:   
 
-###### Connection of *RFID* to *Intel Galileo*:
+#### Connection of *RFID* to *Intel Galileo*:
    * GND = GROUND
    * 3.3 = 3.3v
    * Reset = Pin 5
@@ -53,7 +53,7 @@ click the link to download Fritzing for your machine: http://fritzing.org/home/
    * MISO = Pin 12
    * SCK = Pin 13
 
-###### Connection of *LCD* to *Intel Galileo*:
+#### Connection of *LCD* to *Intel Galileo*:
    * VSS & RW = GND
    * Vcc = 5v
    * Vo = Potentiometer (the middle pin of the 10k potentiometer)
