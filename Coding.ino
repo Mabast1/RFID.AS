@@ -36,8 +36,8 @@ void setup(){
 void loop(){
   boolean USER_card = true;
   if (rfid.isCard()){ 
-    if (rfid.readCardSerial()){ // reads the card 
-      data[0] = rfid.serNum[0]; // stores the serial number
+    if (rfid.readCardSerial()){
+      data[0] = rfid.serNum[0]; 
       data[1] = rfid.serNum[1];
       data[2] = rfid.serNum[2];
       data[3] = rfid.serNum[3];
@@ -56,22 +56,22 @@ void loop(){
     client.println(" HTTP/1.0"); client.println("User-Agent: Arduino 1.0");
     client.println(); client.stop(); lcd.clear();
     lcd.print("USER!");
-    Serial.println("Hello USER!"); // print a message  
+    Serial.println("Hello USER!");  
     delay(1000);  
   }
   
-  else{ // if a card is not recognized
+  else{ 
     lcd.clear();
     lcd.print("Card not");
     lcd.setCursor(0,1);
     lcd.print("recognized!");
-    Serial.println("Card not recognized!"); // print a message
+    Serial.println("Card not recognized!");
      delay(1000);
   }
   if (USER_card){ 
    lcd.setCursor(0,1);
    lcd.print("Access Granted!");
-    Serial.println("Access Granted!... Welcome!"); // print a message
+    Serial.println("Access Granted!... Welcome!");
     delay(1000);
   }
   Serial.println();
