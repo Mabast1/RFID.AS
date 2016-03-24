@@ -64,7 +64,7 @@ click the link to download Fritzing for your machine: http://fritzing.org/home/
    * E = Pin 8
    * RS = Pin 9
 
-**Time for Coding** 
+**Now Follow The Instructions** 
 
   1- First of all you need to [download Arduino](https://www.arduino.cc/en/Main/Software) software to be able to compile run
   and upload the codes into the Galileo.   
