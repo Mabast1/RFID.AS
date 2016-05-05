@@ -1,8 +1,8 @@
 <?php
-$mysql_host = "Here Host/Server name";
-$mysql_database = "Here Database name";
-$mysql_username = "Here Username";
-$mysql_password = "Here Password";
+$mysql_host = "localhost";
+$mysql_database = "rfidAttendance";
+$mysql_username = "root";
+$mysql_password = "HM1995mn";
 
 //$now = date("His");//or date("H:i:s")
 //$start = '210000';//or '13:00:00'
@@ -18,7 +18,7 @@ echo "".$registrationDate."---".$value;
 if (($registrationDate!="") and ($value!="")) {
 	$conn = mysql_connect($mysql_host,$mysql_username,$mysql_password) or die("Unable to connect to server.");
 	mysql_select_db($mysql_database) or die("Unable to open Database.");
-	$sql = "UPDATE TableNameHere SET time='$registrationDate' WHERE CardID='$value'";
+	$sql = "INSERT RFID_m (time,CardID) VALUES(time='$registrationDate', ID='$value')";
 
 $result=mysql_query($sql); 
 // if successfully updated. 
@@ -28,7 +28,7 @@ echo "Successful";
 else { 
 echo "ERROR"; 
 }
-} 
+}
 
 //}else{
  //   echo "Time outside constraints";
