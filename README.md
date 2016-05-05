@@ -16,7 +16,7 @@ Attendance in colleges is generally paper based which may sometimes cause errors
 Taking attendance manually consumes more time. So the proposed attendance system uses RFID technology to take attendance.
 In this system, each student is issued an RFID tag.
 Controlling unit is in the institute. Whenever the card is placed near the reader, it will take the attendance.
-[Gantt Chart & More Info](https://drive.google.com/folderview?id=0B7aOwH1Fv0j4dFFpd1dXTUd2dkE&usp=sharing)
+[Gantt Chart & More Info](https://drive.google.com/folderview?id=0B7aOwH1Fv0j4S3ViRzZZNVBrc0E&usp=sharing)
 
 **Hardware Requirements:**
 
@@ -64,10 +64,13 @@ click the link to download Fritzing for your machine: http://fritzing.org/home/
    * E = Pin 8
    * RS = Pin 9
 
-**Time for Coding** 
+**Now Follow The Instructions** 
 
   1- First of all you need to [download Arduino](https://www.arduino.cc/en/Main/Software) software to be able to compile run
   and upload the codes into the Galileo.   
   2- Download the library folder in this Repo. and import it into arduino software other wise the compiler pop-up errors.  
-  3- to be continued...
+  3- Upload the coding.ino into the Galileo, The LCD should act wierd and pop up some info related to your local IP address 
+  4- Then set up your web server here I use phpMyAdmin for creating the Database you may use (SQL) N.B.D :)    
+  5- Put arduino.php into your root document folder and run it via your browser    
+  6- to be continued ... 
 
